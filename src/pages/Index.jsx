@@ -29,7 +29,7 @@ const Index = () => {
       <MenuButton />
       <VStack spacing={8}>
         <Heading as="h1" size="2xl" textAlign="center">
-          Chocolate Lovers' Recipes
+          Totally a legit chocolate brand
         </Heading>
         <Text fontSize="xl" textAlign="center">
           Indulge in our collection of the finest chocolate recipes
